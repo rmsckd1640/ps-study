@@ -4,7 +4,25 @@
 
 ---
 
-## 제한 시간이 1초인 문제에 각 시간 복잡도별로 허용할 수 있는 N의 가용 범위
+## PS Template
+
+```
+## 문제 요약
+
+## 핵심 조건 및 제약 사항
+
+## 시행착오
+
+## 구현
+
+## 회고
+```
+
+---
+
+## 시간 복잡도별로 N의 가용 범위
+
+> 제한 시간 1초 기준
 
 | 시간 복잡도 | 대략적인 N 범위 |
 |:---:|:---:|
@@ -20,4 +38,4 @@
 
 ## 🔗 Reference
 
-- [개인 PS 정리 블로그](https://velog.io/@rmsckd1640/series/Problem-Solving)
+- [Velog | Algorithm Study](https://velog.io/@rmsckd1640/series/Problem-Solving)
